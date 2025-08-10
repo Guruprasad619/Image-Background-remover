@@ -15,10 +15,10 @@ const Contact: React.FC = () => {
           <div className="flex items-center space-x-3">
             <Mail className="h-5 w-5 text-blue-500" />
             <a
-              href="mailto:rhn25560@gmail.com"
+              href="mailto:guruprasadgm404@gmail.com"
               className="text-blue-600 dark:text-blue-400 font-medium underline hover:text-blue-800 transition-colors"
             >
-              rhn25560@gmail.com
+              guruprasadgm404@gmail.com
             </a>
           </div>
           <div className="border-t border-gray-200 dark:border-gray-700 my-2" />
